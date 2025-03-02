@@ -10,9 +10,7 @@ Tic-Tac-Toe is a classic two-player game where players take turns marking spaces
 - 🚀 **Lightweight & Fast**: Optimized for performance on all Android devices.
 
 ## 📱 Screenshots
-![Image](https://github.com/user-attachments/assets/794e533e-de5d-4e62-b355-a3f0fbc23337)
-![Image](https://github.com/user-attachments/assets/04017268-a9df-4fef-bd59-53de69939d77)
-![Image](https://github.com/user-attachments/assets/1d14fc6c-70ca-4a15-9981-a65a812e3d6e)
+![Image](https://github.com/user-attachments/assets/794e533e-de5d-4e62-b355-a3f0fbc23337)  ![Image](https://github.com/user-attachments/assets/04017268-a9df-4fef-bd59-53de69939d77) ![Image](https://github.com/user-attachments/assets/1d14fc6c-70ca-4a15-9981-a65a812e3d6e)
 
 ## 🛠️ Tech Stack
 - **Language**: Java
