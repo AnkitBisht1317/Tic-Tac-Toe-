@@ -1,8 +1,4 @@
 # Tic-Tac-Toe Game
-
-![Tic-Tac-Toe](https://upload.wikimedia.org/wikipedia/commons/3/32/Tic_tac_toe.svg)
-
-## 🎮 Overview
 Tic-Tac-Toe is a classic two-player game where players take turns marking spaces on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. This version is developed for Android using Java and XML.
 
 ## ✨ Features
@@ -14,7 +10,9 @@ Tic-Tac-Toe is a classic two-player game where players take turns marking spaces
 - 🚀 **Lightweight & Fast**: Optimized for performance on all Android devices.
 
 ## 📱 Screenshots
-(Include images of your game's UI here)
+![Image](https://github.com/user-attachments/assets/794e533e-de5d-4e62-b355-a3f0fbc23337)
+![Image](https://github.com/user-attachments/assets/04017268-a9df-4fef-bd59-53de69939d77)
+![Image](https://github.com/user-attachments/assets/1d14fc6c-70ca-4a15-9981-a65a812e3d6e)
 
 ## 🛠️ Tech Stack
 - **Language**: Java
@@ -43,14 +41,8 @@ Follow these steps to set up and run the project on your local machine:
 - 🎨 **Custom Themes**: Choose different board designs and colors.
 - 🔊 **Sound & Vibration Settings**: Toggle sound and haptic feedback.
 
-## 👨‍💻 Developer
-- **Ankit Sir**
-- 📧 [Your Email]
-- 🌐 [Your Website or GitHub Profile]
 
 ## 📜 License
 This project is licensed under the **MIT License** – feel free to modify and distribute it as you like!
 
----
-Feel free to contribute and improve the game! 🚀
 
